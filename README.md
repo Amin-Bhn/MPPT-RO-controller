@@ -4,7 +4,7 @@ Arduino source code for an MPPT-based controller driving 10 reverse-osmosis modu
 
 ## Hardware Requirements
 - Arduino Uno/Nano
-- Voltage divider for Voc measurement (R1=10k, R2=1.43k)
+- Voltage divider for Voc measurement
 - LM35 temperature sensor
 - 10 relays (or LEDs for testing) on pins 2–11
 
